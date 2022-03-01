@@ -1,0 +1,38 @@
+   EL TORNILLO FELIZ
+
+    RUC : 00000000000
+        Juliaca
+
+Av. Tangamandapio Nro 123
+CEL : 910594824
+---------------------------------    
+BOLETA DE VENTA ELECTRÓNICA
+            BB00-00
+Fecha de emision: 01/03/2022
+--------------------------------
+	DATOS DEL CLIENTE
+
+DNI        : 87654321
+NOMBRE     : Chavo
+APELLIDOS  : Del Ocho
+DIRECCIÓN  : La vencidad
+CIUDAD     : Mexico
+TELEFONO   : 910594824
+---------------------------------
+	 DESCRIPCIÓN
+
+Brocha
+			S./ 19.0
+Cutter
+			S./ 19.0
+Chipote Chillon
+			S./ 99.99
+Chicharra
+			S./ 59.99
+Delivery
+			S./ 4.99
+---------------------------------
+TOTAL			S./202.97
+---------------------------------
+	01/03/2022 12:54:01
+    
